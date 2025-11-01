@@ -1,0 +1,10 @@
+airplane
+ship
+storage Tank
+baseball Diamond
+tennis Court
+basketball Court
+ground Track Field
+harbor
+bridge
+vehicle

@@ -1,0 +1,15 @@
+ship
+Storage Tank
+Baseball Diamond
+Tennis Court
+Basketball Court
+Ground Track Field
+Bridge
+Large Vehicle
+Small Vehicle
+Helicopter
+Swimming Pool
+Roundabout
+Soccer Ball Field
+plane
+Harbor
